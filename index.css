@@ -1,0 +1,50 @@
+.profile_pic{
+    
+    /* width:0 50%; */
+    margin-top: 50px;
+    margin-left:500px;
+    
+    
+    
+    /* width:30% */
+    /* border:10px dotted yellow; */
+    /* width:200px;
+    height:200px; */
+
+
+}
+.myName {
+    margin-left:370px;
+    border: 2px solid yellow;
+    background-color: blanchedalmond;
+}
+.about{
+    margin-left:250px;
+    color:aqua;
+}
+.img_siz{
+    display:flex;
+    
+    /* width: 2000px; */
+    width:500px;
+    height:200px;
+    border-width: 5px;
+    border-color: yellow;
+   border-style: dotted;
+
+}
+
+.work_exp {
+    display:flex;
+    
+    
+}
+.work_img {
+    border-width: 5px;
+    border-color: green;
+    border-style: dotted;
+}
+
+.skill {
+    height:50px;
+}
